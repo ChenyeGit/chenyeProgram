@@ -1,0 +1,66 @@
+{
+	"compiler": {
+		"version": "0.8.26+commit.8a97fa7a"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [
+					{
+						"internalType": "uint256",
+						"name": "_index",
+						"type": "uint256"
+					}
+				],
+				"name": "remove",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "test",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/myContacts/16_ArrayReplaceFromEnd.sol": "ArrayReplaceFromEnd"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/myContacts/16_ArrayReplaceFromEnd.sol": {
+			"keccak256": "0x7dc5ca5c9e6f68ba60e5fc99e8be54ac8a17e179b5186a76bfff301bfa430bd4",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://3136391bb56b28de3af8a2a4bdd112cce197d38417fa3e5fb4d4a177001f3f74",
+				"dweb:/ipfs/QmWmHG6R7gPTa2198Gm1AkkAaEePhmKUSyyMQquBezTCkr"
+			]
+		}
+	},
+	"version": 1
+}

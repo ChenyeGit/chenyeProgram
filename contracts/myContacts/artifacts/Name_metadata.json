@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.8.26+commit.8a97fa7a"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/myContacts/17_enum.sol": "Name"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/myContacts/17_enum.sol": {
+			"keccak256": "0x2f7e830f41454f4237785bad1d7d9b02c8953e11c45f07be5414e5ce8aded484",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://13d712c16a0db06f02937d2f5e2d03474d5bbf86bf4672b4adb9d2e34d54730c",
+				"dweb:/ipfs/QmcycTeoBaAFQiR7hKk7TVtQYxdH3BVcJLGVGKfX8qXR3r"
+			]
+		}
+	},
+	"version": 1
+}

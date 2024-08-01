@@ -1,0 +1,65 @@
+{
+	"compiler": {
+		"version": "0.8.26+commit.8a97fa7a"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [
+					{
+						"internalType": "uint256",
+						"name": "_num",
+						"type": "uint256"
+					}
+				],
+				"name": "get",
+				"outputs": [
+					{
+						"internalType": "int256",
+						"name": "",
+						"type": "int256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/myContacts/11_ifAndElse.sol": "IfAndElse"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/myContacts/11_ifAndElse.sol": {
+			"keccak256": "0x3d4e9b118bf5ed3ceed5dbafb47edc901d37dd07be90947897bdc52ac5a4a0d0",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://904dd2a3c1e4d5d8a7d5bbc2e093c3c8b5d9fd7afde1239cc5b0d022d9968e26",
+				"dweb:/ipfs/QmUWk47e6hYszYshb1NMevQrwhftXgaokAinTJbdGDFKnK"
+			]
+		}
+	},
+	"version": 1
+}

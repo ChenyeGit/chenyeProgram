@@ -1,0 +1,59 @@
+{
+	"compiler": {
+		"version": "0.8.26+commit.8a97fa7a"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "getData",
+				"outputs": [
+					{
+						"internalType": "string",
+						"name": "",
+						"type": "string"
+					}
+				],
+				"stateMutability": "pure",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/myContacts/5_constants.sol": "Constants"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/myContacts/5_constants.sol": {
+			"keccak256": "0x11776700898b3c3e477d7f873af9a679315b7473092f0acce44581d47de423a1",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://e2d8b084a7d37c3fd2dd5c33f97f756c72efd912f3018f5ee164412b167c645b",
+				"dweb:/ipfs/Qmdn32hh9jqgUkSYq9Wf4pwufi63cAB9SJXD2uCASdHdqG"
+			]
+		}
+	},
+	"version": 1
+}

@@ -1,0 +1,53 @@
+{
+	"compiler": {
+		"version": "0.8.26+commit.8a97fa7a"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "loops",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/myContacts/12_loop.sol": "Loop"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/myContacts/12_loop.sol": {
+			"keccak256": "0x441b59f78bb21a033b1e2c8e05cdb3df95264c56ec3fa0f266a7f81a12a3f3c6",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://2ad8ff488d0fe12847f21aa92b2a1ee5ca876281cc4e7bd40f4d2ab425f63e25",
+				"dweb:/ipfs/QmTsbEfnWpNFZbKL8SLCo2Vk4CaXT4dmxKrWWafJhAn6rW"
+			]
+		}
+	},
+	"version": 1
+}
