@@ -1,8 +1,11 @@
 
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8;
+import "./StructDeclaration.sol";
 
 contract Struct{
+
+    Todo [] todoList;
 
     struct Person{
         string name;
